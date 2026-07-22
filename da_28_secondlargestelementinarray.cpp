@@ -36,4 +36,4 @@ int main() {
         cout << "Second Largest Element = " << secondLargest;
 
     return 0;
-}
+}  
